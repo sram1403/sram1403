@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 - *Tools:* Git, Docker, Kubernetes, Jenkins
 - *Cloud Services:* AWS, Azure, Google Cloud
 
-## 📚 Projects:
+## 📚 Projects
 [REDACTED]
 
  
@@ -16,8 +16,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 [REDACTED]
 
 ## 💬 Let's Connect!
-- *LinkedIn:* https://www.linkedin.com/in/sram1403/
-- *Twitter:* @s_ram1403
 - *Email:* sramirez140304@gmail.com
 
 ## 🏆 Achievements
